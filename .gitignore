@@ -1,0 +1,9 @@
+.venv/
+**/__pycache__/
+.ipynb_checkpoints/
+data/
+docs/journal/
+*.csv
+*.csv.gz
+.env
+.DS_Store
